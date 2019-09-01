@@ -14,7 +14,7 @@
 ![image](https://github.com/gesang08/TypeAndTestSpeed/raw/master/result/running.png)
 </br>
 ### 结果显示：
-![image](https://github.com/gesang08/TypeAndTestSpeed/raw/master/result/end.png)
+![image](https://github.com/gesang08/TypeAndTestSpeed/raw/master/result/end.jpg)
 </br>
 ### other idea:
 1.构建UI界面，点击开始游戏，运行游戏主函数；</br>
